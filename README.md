@@ -66,4 +66,5 @@ To make the results understandable to everyone, the model predictions were visua
 ---
 
 ## 📊 Output Example
+<img width="1226" height="919" alt="electricity-consumption-ml-forecasting-sw8homzagr9ipdkmx6lpbr streamlit app_" src="https://github.com/user-attachments/assets/b40f6016-0d98-499f-a389-b9f6b4c4a670" />
 
